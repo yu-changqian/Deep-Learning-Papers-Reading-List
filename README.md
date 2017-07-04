@@ -27,6 +27,7 @@ Networks for Visual Recognition (**SPP**)
 5. - [x] Loss Max-Pooling for Semantic Image Segmentation [[pdf]](https://arxiv.org/abs/1704.02966)
 6. - [x] Understanding Convolution for Semantic Segmentation [[pdf]](https://arxiv.org/abs/1702.08502)
 7. - [x] Universal Adversarial Perturbations Against Semantic Image Segmentation [[pdf]](https://arxiv.org/abs/1704.05712)
+8. - [x] Rethinking Atrous Convolution for Semantic Image Segmentation(**DeepLab v3**) [[pdf]](https://arxiv.org/abs/1706.05587)
 
 
 ### CRF/MRF
