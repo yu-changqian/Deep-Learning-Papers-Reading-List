@@ -24,6 +24,10 @@ Networks for Visual Recognition (**SPP**)
 2. - [x] Learning Deconvolution Network for Semantic Segmentation (**Deconvolution**)
 3. - [x] Wider or Deeper: Revisiting the ResNet Model for Visual Recognition
 4. - [x] Not All Pixels Are Equal: Difficulty-aware Semantic Segmentation via Deep Layer Cascade [[pdf]](https://www.researchgate.net/publication/315796330_Not_All_Pixels_Are_Equal_Difficulty-aware_Semantic_Segmentation_via_Deep_Layer_Cascade)
+5. - [x] Loss Max-Pooling for Semantic Image Segmentation [[pdf]](https://arxiv.org/abs/1704.02966)
+6. - [x] Understanding Convolution for Semantic Segmentation [[pdf]](https://arxiv.org/abs/1702.08502)
+7. - [x] Universal Adversarial Perturbations Against Semantic Image Segmentation [[pdf]](https://arxiv.org/abs/1704.05712)
+
 
 ### CRF/MRF
 1. - [x] Efficient Inference in Fully Connected CRFs with Gaussian Edge Potentials [[pdf]](http://papers.nips.cc/paper/4296-efficient-inference-in-fully-connected-crfs-with-gaussian-edge-potentials.pdf)
@@ -38,6 +42,7 @@ Networks for Visual Recognition (**SPP**)
 2. - [x] Exploring Context with Deep Structured models for Semantic Segmentation
 3. - [x] RefineNet: Multi-Path Refinement Networks for High-Resolution Semantic Segmentation (**RefineNet**)
 4. - [x] Pyramid Scene Parsing Network (**PSPNet**)
+5. - [x] Large Kernel Matters -- Improve Semantic Segmentation by Global Convolutional Network [[pdf]](https://arxiv.org/abs/1704.02966)
 
 ### Fast Semantic Segmentation
 1. - [x] SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation (**SegNet**) [[pdf]](https://arxiv.org/abs/1511.00561?context=cs)
