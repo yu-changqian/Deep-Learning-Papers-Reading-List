@@ -67,6 +67,12 @@
 - Rethinking Atrous Convolution for Semantic Image Segmentation(**Deeplab v3**)
 - Global-residual and Local-boundary Refinement Networks for Rectifying Scene Parsing Predictions
 - Stacked Deconvolutional Network for Semantic Segmentation(**SDN**)
+- Learning a Discriminative Feature Network for Semantic Segmentation(**DFN**)[[paper]](https://arxiv.org/abs/1804.09337) 
+- DenseASPP for Semantic Segmentation in Street Scenes
+- Context Encoding for Semantic Segmentation
+- Dynamic-structured Semantic Propagation Network
+- The Lovasz-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks
+- Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation
 
 #### instance segmentation
 - Instance-aware Semantic Segmentation via Multi-task Network Cascades(**MNC**) [[paper]](https://arxiv.org/abs/1512.04412)
@@ -85,8 +91,22 @@
 - SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation(**SegNet**)
 - ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation(**ENet**)
 - ICNet for Real-Time Semantic Segmentation(**ICNet**)
+- LinkNet: Exploiting Encoder Representations for Efficient Semantic Segmentation(**ICNet**)
+- Efficient ConvNet for real-Time semantic segmentation
+- Real-time Semantic Image Segmentation via Spatial Sparsity
 
 #### video segmentation
+- Video Propagation Networks
+- One-Shot Video Object Segmentation
+- Learning Video Object Segmentation from Static Images
+- SegFlow: Joint Learning for Video Object Segmentation and Optical Flow
+- Online Adaptation of Convolutional Neural Networks for Video Object Segmentation
+- Lucid Data Dreaming for Object Tracking
+- Lucid Data Dreaming for Multiple Object Tracking
+- Video Object Segmentation with Re-identification
+- Online Adaptation of Convolutional Neural Networks for Video Object Segmentation
+- Learning to Segment Instances in Videos with Spatial Propagation Network
+- Efficient Video Object Segmentation via Network Modulation
 
 #### weakly segmentation
 - Weakly- and Semi-Supervised Learning of a Deep Convolutional Network for Semantic Image Segmentation
